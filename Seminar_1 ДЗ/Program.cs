@@ -7,11 +7,16 @@
 // int number2 =Convert.ToInt32(Console.ReadLine());
 // int max=number1;
 
-// if (number1>number2) max= number1;
-// if (number1<number2) max= number2;
-
-// Console.Write ("max=");
-// Console.WriteLine(max);
+// if (number1<number2) 
+// {
+//     max=number2;
+// }
+// else
+// {
+//     max=number1;
+// }
+// Console.Write ("max="+ max);
+// Console.Write ($"max={max}"); или этот вариант
 
 
 // Задача 4: Напишите программу, которая принимает на вход 
@@ -25,7 +30,7 @@
 // int c =Convert.ToInt32(Console.ReadLine());
 // int max=a;
 
-// if (a>max) max = a;
+
 // if (b>max) max= b;
 // if (c>max) max= c;
 
