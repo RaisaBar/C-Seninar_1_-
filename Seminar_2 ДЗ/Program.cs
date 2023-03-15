@@ -10,6 +10,13 @@
 
 // Console.WriteLine(result);
 
+// Другое решение
+
+// Console.WriteLine("Введите число");
+// string stringNumber= Console.ReadLine ();
+
+// Console.WriteLine("Вторая цифрa этого числа=" + stringNumber[1]);
+
 
 
 // Задача 13: Напишите программу, которая выводит третью цифру 
@@ -28,6 +35,21 @@
 // {
 //     Console.WriteLine(number2);
 // }
+
+// Другой вариант решения:
+
+// Console.WriteLine("Введите число");
+// string Number= Console.ReadLine ();
+
+// if (Number.Length > 2)
+// {
+//     Console.WriteLine("третья цифра->" + Number[2]);
+// }
+// else {
+//     Console.WriteLine("третьeй цифры нет");
+// }
+
+
 
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, 
