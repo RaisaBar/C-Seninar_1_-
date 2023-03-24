@@ -1,0 +1,15 @@
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\bin\Debug\net6.0\Seminar_3 ДЗ.exe
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\bin\Debug\net6.0\Seminar_3 ДЗ.deps.json
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\bin\Debug\net6.0\Seminar_3 ДЗ.runtimeconfig.json
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\bin\Debug\net6.0\Seminar_3 ДЗ.dll
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\bin\Debug\net6.0\Seminar_3 ДЗ.pdb
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.csproj.AssemblyReference.cache
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.AssemblyInfoInputs.cache
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.AssemblyInfo.cs
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.dll
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\refint\Seminar_3 ДЗ.dll
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.pdb
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\Seminar_3 ДЗ.genruntimeconfig.cache
+C:\Users\leoba\Desktop\C#\Seminar_3 ДЗ\obj\Debug\net6.0\ref\Seminar_3 ДЗ.dll
