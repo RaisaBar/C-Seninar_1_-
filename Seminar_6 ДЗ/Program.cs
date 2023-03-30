@@ -34,10 +34,13 @@
 // Console.WriteLine("Введите число b2, k2");
 // double b2 = Convert.ToDouble(Console.ReadLine());
 // double k2 = Convert.ToDouble(Console.ReadLine());
+// double x = (b1 - b2) / (k2 - k1);
+// double y = k1 * x + b1;
+// if (k1 == k2)
+//     Console.WriteLine("Прямые не пересекаются ");
 
-// double x = (b1-b2)/(k2-k1);
-// double y = k1*x + b1;
-
-
-//  Console.WriteLine("Прямые пересекаются в координатаx"+x+y);
+// else
+// {
+//     Console.WriteLine("Прямые пересекаются в координатаx" + x + y);
+// }
 
