@@ -21,6 +21,30 @@
 // Console.WriteLine($"Чисел больше ноля {count}");
 
 
+//************Второе решение задачи****************
+
+
+// int count = 0;
+// int max=int.MaxValue;
+// int num=0;
+
+// for (int i = 0; i < max; i++)
+// {
+//     Console.WriteLine("Введите  число,если закончили введите %");
+//     string number= Console.ReadLine();
+
+//  if (number=="%")
+//     {
+//         break; 
+//     }
+//     num= Convert.ToInt32(number);
+//     if ( num>0)
+// { 
+//     count++;
+// }
+// }
+// Console.WriteLine("Пользователь ввел "+count+" шт. чисел больше 0");
+
 
 
 // Задача 43: Напишите программу, которая найдёт точку пересечения
