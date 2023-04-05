@@ -91,30 +91,30 @@
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
 
 
-Console.WriteLine("Введите количество строк:");
-int rows=Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите количество столбцов:");
-int columns=Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите количество строк:");
+// int rows=Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите количество столбцов:");
+// int columns=Convert.ToInt32(Console.ReadLine());
 
-int[,] array=new int[rows,columns];
-double sum=0;
+// int[,] array=new int[rows,columns];
+// double sum=0;
 
-for (int i = 0; i < array.GetLength(0); i++)
-{
-    for (int j = 0; j < array.GetLength(1); j++)
-    {
-        array[i,j] = new Random().Next(0,10);
-        Console.Write(array[i,j]+ " ");
-    }
-    Console.WriteLine();
-}
-for (int j = 0; j < array.GetLength(1); j++)
-{
-    sum=0;
+// for (int i = 0; i < array.GetLength(0); i++)
+// {
+//     for (int j = 0; j < array.GetLength(1); j++)
+//     {
+//         array[i,j] = new Random().Next(0,10);
+//         Console.Write(array[i,j]+ " ");
+//     }
+//     Console.WriteLine();
+// }
+// for (int j = 0; j < array.GetLength(1); j++)
+// {
+//     sum=0;
 
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        sum+=array[i,j];
-    }
- Console.WriteLine($"Среднее арифметическое столбца: {sum/array.GetLength(0)}");
-}
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         sum+=array[i,j];
+//     }
+//  Console.WriteLine($"Среднее арифметическое столбца: {sum/array.GetLength(0)}");
+// }
